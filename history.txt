@@ -1,0 +1,390 @@
+    1  git config --global --list
+    2  git config --global user.email "Aivaraspuodziunas9@gmail.com"
+    3  git config --global user.name "Aivaras"
+    4  git config --global --list
+    5  cd pvz-git
+    6  git init
+    7  git status
+    8  git add New Text Document
+    9  git add sss.txt
+   10  git add .
+   11  git status
+   12  git commit -m "init commit"
+   13  git status
+   14  git log
+   15  git status
+   16  git status
+   17  git commit -m ";D"
+   18  git status
+   19  git commit -m "kazka"
+   20  git add .
+   21  git status
+   22  git delete sss.txt
+   23  git --hlep
+   24   git --help
+   25  git rm sss.txt
+   26  git rm .
+   27  git rm . -r
+   28  satus
+   29  tatus
+   30  status
+   31  git status
+   32  git log
+   33  git status
+   34  git .
+   35  git commit .
+   36  git commit -m "deleted file"
+   37  status
+   38  log
+   39  git log
+   40  status
+   41  git status
+   42  git add .
+   43  git status
+   44  git log
+   45  git gitignore
+   46  git ignore
+   47  git --hlep
+   48  git --hlep
+   49  git --help
+   50  help help hlep help hlep hlep hlep help hlep hlep help hep
+   51  :D 
+   52  sup
+   53  zz
+   54  git log
+   55  git status
+   56  git status
+   57  git log
+   58  mkdir studentai
+   59  cd studentai
+   60  git init
+   61  echo "Jonas Petraitis" >> studentai.dat
+   62  git add studentai.dat
+   63  git commit -m "added my name to studentai.dat
+   64  git log
+   65  git log
+   66  git commit -m "added my name to studentai.dat"
+   67  git log
+   68  git status
+   69  git commit -m "Added my name to studentai.dat"
+   70  git status
+   71  git log
+   72  .git log
+   73  mkdir studentai
+   74  cd studentai
+   75  git init
+   76  echo "Jonas Petraitis" >> studentai.dat
+   77  git add studentai.dat
+   78  git add .
+   79  git commit -m "Added my name to studentai.dat"
+   80  git log
+   81  git checkout 40b25b70e899cce802849d41df36fa21e7bb8079
+   82  echo "Aivaras" >> studentai.dat
+   83  git add .
+   84  git ad d.
+   85  git add .
+   86  git commit -m "Added second name"
+   87  git status
+   88  git log
+   89  git checkout QVTJJGK MINGW64 ~/Desktop/studentai/studentai ((a8dcd17...))
+   90  $
+   91  git checkout QVTJJGK MINGW64 ~/Desktop/studentai/studentai ((a8dcd17...))
+   92  $
+   93  QVTJJGK MINGW64 ~/Desktop/studentai/studentai ((a8dcd17...))
+   94  $
+   95  git log
+   96  git checkout 8dcd1724246e25d5506a3fdab8f138707ab3df4
+   97  git checkout 8dcd1724246e25d5506a3fdab8f138707ab3df4
+   98  8dcd1724246e25d5506a3fdab8f138707ab3df4
+   99  cd learn_git
+  100  mkdir learn_git
+  101  cd learn_git
+  102  git init
+  103  status
+  104  git status
+  105  git add .
+  106  git status
+  107  echo "xdxdxd" >> first.txt
+  108  git status
+  109  git add .
+  110  git add .
+  111  git commit -m "adding first.txt"
+  112  git log
+  113  git stauts
+  114  git status
+  115  git add .
+  116  echo "adadad" >> second.txt
+  117  git status
+  118  git add .
+  119  git add .
+  120  git commit -m "added second.txt"
+  121  git rm first.txt
+  122  git status
+  123  git add.
+  124  git add .
+  125  git commit -m "removing first.txt"
+  126  git log
+  127  git log --oneline
+  128  git checkout 5624fcc7a0427e019e5ad573dc3752af96aeaf87
+  129  git status
+  130  git log
+  131  echo "klol" >> second.txt
+  132  git add.
+  133  git add .
+  134  git add .
+  135  $ ssh-keygen -t ed25519 -C "aivaraspuodziunas9@gmail.com"
+  136  your_email@example.com"your_email@example.com"your_email@example.com"
+  137   $ ssh-keygen -t ed25519 -C "aivaraspuodziunas9@gmail.com"
+  138  ssh-keygen -t rsa -b 4096 -C "aivaraspuodziunas9@gmail.com"
+  139  $ ssh-add ~/.ssh/id_ed25519
+  140  $ ssh-add ~/.ssh/id_ed2551
+  141  $ ssh-add ~/.ssh/id_ed2551
+  142  ssh-add ~/.ssh/id_ed25519
+  143  git status
+  144  git log
+  145  ssh-keygen -t ed25519 -C "aivaraspuodziunas9@gmail.com"
+  146  # start the ssh-agent in the background
+  147  eval "$(ssh-agent -s)"
+  148  Agent pid 59566
+  149  > Agent pid 59566
+  150  ssh-add ~/.ssh/id_ed25519
+  151  git status
+  152  git clone
+  153  git clone /desktop
+  154  git clone git@github.com:AivarasP/potential-lamp.git
+  155  git status
+  156  git initia;
+  157  git init
+  158  git initial
+  159  initial commit
+  160  zxzxzxxzxzxxxzxx
+  161  commit dekstop
+  162  git clone desktop
+  163  git cone /desktop
+  164  git clone /desktop
+  165  git clone git@github.com:AivarasP/potential-lamp.git
+  166  git clone git@github.com:AivarasP/potential-lamp.git
+  167  clip < ~/.ssh/id_ed25519.pub
+  168  git clone git@github.com:AivarasP/potential-lamp.git
+  169  git pull
+  170  git push -u origin master
+  171  git remote add origin git@github.com:NewGitHub/potential-lamp
+  172  git push -u origin master
+  173  git status
+  174  git .add
+  175  git add .
+  176  git add .
+  177  git status
+  178  git add ,
+  179  git add .
+  180  git remote add origin https://github.com/AivarasP/potential-lamp/blob/main/NewGitHub
+  181  git push -u origin master
+  182  git clone https://gitlab.com/mindaugas22/sql
+  183  git clone https://gitlab.com/mindaugas22/sql
+  184  int
+  185  int k
+  186  int k s
+  187  int k = 0
+  188  xd
+  189  nano
+  190  vim
+  191  git config --global --list
+  192  git init
+  193  nano
+  194  git config --global user.email "aivaraspuodziunas9@gmail.com"
+  195  git config --global user.name "Aivaras"
+  196  git config --global --list
+  197  git init
+  198  git add studentas.txt
+  199  git config --global --list
+  200  git add studentas.txt
+  201  ls -laf
+  202  git init
+  203  ls .git/
+  204  git add studentas.txt
+  205  git add studentas.txt
+  206  git commit -m "Irasiau varda I faila"
+  207  git status
+  208  git status
+  209  git commit -a
+  210  git status
+  211  git commit -m "Irasiau varda"
+  212  git add studentas.txt
+  213  git commit -m "irasiau varda"
+  214  git status
+  215  git log
+  216  touch logas.log
+  217  git update-index --skip-worktree logas.log
+  218  git add logas.log
+  219  git commit -m "Pridejau logas.log"
+  220  git update-index --skip-worktree logas.log
+  221  git status
+  222  git ls-files
+  223  ls -a
+  224  git remote add origin git@github.com:AivarasP/Atsiskaitymas.git
+  225  git branch -M main
+  226  git push -u origin main
+  227  git push -u origin main
+  228  git log
+  229  git push -origin
+  230  git push --set-upstream origin main
+  231  $ ssh-keygen -t ed25519 -C "aivaraspuodziunas9@gmail.com"
+  232  ssh-keygen -t ed25519 -C "aivaraspuodziunas9@gmail.com"
+  233  git push -u origin main
+  234  git remote add origin git@github.com:AivarasP/Atsiskaitymas.git
+  235  git push -u origin main
+  236  git push -u origin main
+  237  git clone ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAixDVdgw4Ek8mCAAhQSN/2R3kzUGjJli8YAghWURL77 aivaraspuodziunas9@gmail.com
+  238  git init
+  239  git push -u origin main
+  240  git remote add origin git@github.com:AivarasP/Atsiskaitymas.git
+  241  git push -u origin main
+  242  git clone git@github.com: Permission denied (publickey).
+  243  git clone git@github.com:AivarasP/Atsiskaitymas.git
+  244  ssh-add logas.log
+  245  eval "$(ssh-agent -s)"
+  246  ssh-add logas.log
+  247  git push -u origin main
+  248  ssh-add -D
+  249  ssh-add shh
+  250  git push -u origin main
+  251  git@github.com:AivarasP/Atsiskaitymas.git
+  252  git push -u origin main
+  253  git remote add origin git@github.com:AivarasP/Atsiskaitymas.git
+  254  ~/Desktop/Aivaras_JPVAK-21
+  255  git push -u origin main
+  256  git add ssh.pub
+  257  git add ssh.pub
+  258  git push -u origin main
+  259  ssh-add -D
+  260  ssh-add ssh
+  261  ssh-add ssh.pub
+  262  ssh-add ssh
+  263  ls
+  264  git add ssh
+  265  git add ssh.pub
+  266  ssh-add ssh
+  267  git remote add origin
+  268  git push -u origin main
+  269  eval "$(ssh-agent -s)"
+  270  ssh-add -l -E sha256
+  271  ssh-add ~/.ssh/id_rsa
+  272  ssh-add ~/.ssh/id_rsa
+  273  git clone git@github.com:AivarasP/Atsiskaitymas.git
+  274  git remove -v
+  275  git remote -v
+  276  git push -u origin main
+  277  $git config --get remote.origin.url
+  278  git config --get remote.origin.url
+  279  ssh-keygen -t rsa -b 4096 -C "aivarasPuodziunas9@gmail.com"
+  280  eval "(ssh-agent -s)"
+  281  ssh-add ~/.ssh/id_rsa
+  282  git push -u origin main
+  283  git add ssh.pub
+  284  git push -u origin main
+  285  git push -u origin master
+  286  git push -u origin main
+  287  eval "$(ssh-agent -s)"
+  288  ssh-add -l -E md5
+  289  man ssh-add
+  290  ssh-add
+  291  ssh-add -l -E md5
+  292  git push -u origin main
+  293  git clone git@github.com:AivarasP/Atsiskaitymas.git
+  294  git@github.com:AivarasP/Atsiskaitymas.git
+  295  git push -u origin main
+  296  git push -u origin main
+  297  git push -u origin main
+  298  git push -u origin main
+  299  ls
+  300  git add logas.log
+  301  git push -u origin main
+  302  git clone git@github.com:AivarasP/Atsiskaitymas.git
+  303  git clone git@github.com:AivarasP/Atsiskaitymas.git
+  304  git init
+  305  git remote add origin git@github.com:AivarasP/Atsiskaitymas.git
+  306  git push -u origin master
+  307  git push -u origin main
+  308   git push --set-upstream origin main
+  309  git branch -m main master
+  310  git push -u origin master
+  311  git branch -m master main
+  312  git push -u origin main
+  313  ssh-agent -s
+  314  ssh-add ~/.ssh/id_rsa
+  315  ssh-keygen -t rsa -b 2048 -C "aivaraspuodziunas9@gmail.com"
+  316  git push -u origin main
+  317  git push -u -f origin main
+  318  git push -u -f origin main
+  319  git push -u origin main
+  320  git remote add origin git@github.com:AivarasP/Atsiskaitymas.git
+  321  git branch -M main
+  322  git push -u origin main
+  323  git remote -v
+  324  git remote -v
+  325  git push -u origin main
+  326  git push -u origin main
+  327  git config --global --list 
+  328  git remote --set-url origin https://github.com/AivarasP/Atsiskaitymas.git
+  329  git remote set-url origin https://github.com/AivarasP/Atsiskaitymas.git
+  330  git remote set-url origin https://AivarasP@github.com/AivarasP/Atsiskaitymas.git
+  331  git push -u origin main
+  332  git push -u origin main
+  333  git push -u origin main
+  334  git push -u origin main
+  335  git push -u origin main
+  336  git push -u origin main
+  337  git push -u origin main
+  338  git remote set-url origin git@github.com:AivarasP/Atsiskaitymas.git
+  339  git push -u origin main
+  340  ls -al ~/.ssh
+  341  rm -f
+  342  ls -al ~/.ssh
+  343  rm -f ~/.ssh/known_hosts*
+  344  ls -al ~/.ssh
+  345  rm -f ~/.ssh/id_ed25519.pub*
+  346  ls -al ~/.ssh
+  347  rm -f ~/.ssh/id_ed25519
+  348  ls -al ~/.ssh
+  349  ssh-keygen -t rsa -b 4096 -C "aivaraspuodziunas9@gmail.com"
+  350  eval "@(ssh-agent -s)"
+  351  eval "$(ssh-agent -s)"
+  352  ssh-add ~/.ssh/id_rsa
+  353  clip < ~/.ssh/id_rsa.pub
+  354  git push -u origin main
+  355  git checkout -b grupes-numeris
+  356  git add studentas.txt
+  357  git commit -m "pridejau grupes numeri"
+  358  git branch -M master
+  359  git checkout -b grupes-numeris
+  360  git pull
+  361  git branch -M master
+  362  git pull
+  363  git brach --set-upstream-to=origin master
+  364  git pull
+  365  git pull branch
+  366  git pull master
+  367  git pull main
+  368  git pull git@github.com:AivarasP/Atsiskaitymas.git main
+  369  git branch -M grupes-numeris
+  370  git push -u origin grupes-numeris
+  371  git pull git@github.com:AivarasP/Atsiskaitymas.git main
+  372  git add studentas.txt
+  373  git pull git@github.com:AivarasP/Atsiskaitymas.git main
+  374  commit -m "pridejau grupes-numeri"
+  375  git comit -m "pridejau grupes-numeri"
+  376  git commit -m "pridejau grupes-numeri"
+  377  git pull git@github.com:AivarasP/Atsiskaitymas.git main
+  378  git push -u origin main
+  379  git branch -m Main
+  380  git branch -m main
+  381  git brach --set-upstream-to=origin main
+  382  git branch --set-upstream-to=origin main
+  383  git push -u
+  384  git branch --set-upstream-to=origin main
+  385  git checkout -b main
+  386* gi
+  387  git branch -M master
+  388  git add studentas.txt
+  389  git commit -m "isivertinau zinias"
+  390  history > history.txt
